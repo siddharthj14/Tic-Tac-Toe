@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  height: 15vmin;
+  height: 15vh;
   font-size: 15vmin;
   font-weight: bold;
   color:rgb(212, 0, 255);
@@ -22,7 +22,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 55vmin;
+  height: 55vh;
 }
 
 .container {
@@ -55,7 +55,7 @@ main {
 }
 
 .score {
-  height: 20vmin;
+  height: 20vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -75,7 +75,7 @@ main {
   font-weight: bold;
   color: #12e049;
   text-align: center;
-  height: 10vmin;
+  height: 10vh;
   margin-top: -1vmin;
   margin-bottom: -4vmin;
 }
@@ -83,6 +83,6 @@ main {
 footer {
   color: white;
   text-align: center;
-  height: 5vmin;
+  height: 5vh
 }
 
